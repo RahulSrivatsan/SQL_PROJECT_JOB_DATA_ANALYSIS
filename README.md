@@ -54,7 +54,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Large Pay Gap**: There is a massive drop-off of over $300,000 between the first and second-highest paying roles.
 - **High Minimum Pay**: Every job in this top 10 list earns at least $184,000 per year.
 
-![Top Paying Roles](assets\1_Salary(Avg)_JobTitle.png)
+![Top Paying Roles](assets/1_Salary(Avg)_JobTitle.png)
 
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; Gemini generated this graph from my SQL query results*
 
@@ -89,7 +89,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC; 
 ```
-![Skills Frequency](assets\2_skills_frequency.png)
+![Skills Frequency](assets/2_skills_frequency.png)
 
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; Gemini generated this graph from my SQL query results*
 
