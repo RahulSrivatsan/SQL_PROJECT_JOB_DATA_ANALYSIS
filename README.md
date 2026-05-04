@@ -127,6 +127,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 | Tableau  | 46,554       |
 | Power BI | 39,468       |
 
+
 *Table of the demand for the top 5 skills in data analyst job postings*
 
 ### 4. Skills Based on Salary
@@ -167,6 +168,7 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 | VMware    | $147,500           |
 | Terraform | $146,734           |
 | Twilio    | $138,500           |
+
 *Table of the average salary for the top 10 paying skills for data analysts*
 
 ### 5. Most Optimal Skills to Learn
@@ -228,6 +230,7 @@ LIMIT 10;
 | 3        | Scala      | 59           | 115,480        |
 | 169      | Linux      | 58           | 114,883        |
 | 234      | Confluence | 62           | 114,153        |
+
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
